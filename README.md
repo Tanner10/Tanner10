@@ -1,4 +1,4 @@
-# Tanner10
+# Tanner10.github.io
 EAST 1 Portfolio
 
 ### 360
